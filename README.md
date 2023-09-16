@@ -8,6 +8,6 @@ from metrics import calculate_bleu
 
 calculate_bleu(
 predictions = ["hello"],
-references = ["hi],
+references = ["hi"],
 )
 ```
